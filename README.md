@@ -1,3 +1,6 @@
+
+<img width="1512" height="828" alt="Screenshot 2025-09-30 at 2 03 51 PM" src="https://github.com/user-attachments/assets/5a1ce8ce-35d3-4f61-9b56-077476efabd0" />
+
 # Invoice Manager
 
 A modern invoice management application built with Vue 3, TypeScript, and Tailwind CSS. This application provides full CRUD operations for managing invoices with a clean, responsive interface and live preview functionality.
