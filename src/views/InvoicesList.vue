@@ -66,7 +66,7 @@
     </div>
 
     <!-- Content -->
-    <div class="w-full max-w-[2000px] mx-auto">
+    <div class="w-full mx-auto px-2">
       <div class="bg-white rounded-3xl shadow-strong overflow-hidden border-2 border-gray-100">
 
         <!-- Loading State -->
@@ -96,18 +96,18 @@
 
         <!-- Table -->
         <div v-else class="overflow-x-auto">
-          <table class="w-full" style="min-width: 1600px;">
+          <table class="w-full" style="min-width: 1800px;">
             <thead>
               <tr class="border-b-2 border-gray-200 bg-gradient-to-b from-gray-50 to-white">
-                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider">Number</th>
-                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider">Customer</th>
-                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider">Date</th>
-                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider">Due Date</th>
-                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider">Subtotal</th>
-                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider">VAT</th>
-                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider">Total</th>
-                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider">Status</th>
-                <th class="px-8 py-5 text-center text-xs font-extrabold text-gray-700 uppercase tracking-wider whitespace-nowrap">Actions</th>
+                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider" style="min-width: 140px;">Number</th>
+                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider" style="min-width: 220px;">Customer</th>
+                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider" style="min-width: 130px;">Date</th>
+                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider" style="min-width: 130px;">Due Date</th>
+                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider" style="min-width: 140px;">Subtotal</th>
+                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider" style="min-width: 120px;">VAT</th>
+                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider" style="min-width: 150px;">Total</th>
+                <th class="px-8 py-5 text-left text-xs font-extrabold text-gray-700 uppercase tracking-wider" style="min-width: 100px;">Status</th>
+                <th class="px-8 py-5 text-center text-xs font-extrabold text-gray-700 uppercase tracking-wider whitespace-nowrap" style="min-width: 200px;">Actions</th>
               </tr>
             </thead>
             <tbody class="divide-y divide-gray-100">
