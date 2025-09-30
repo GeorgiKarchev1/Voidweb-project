@@ -1,5 +1,6 @@
 
-<img width="1512" height="828" alt="Screenshot 2025-09-30 at 2 03 51 PM" src="https://github.com/user-attachments/assets/5a1ce8ce-35d3-4f61-9b56-077476efabd0" />
+<img width="1053" height="478" alt="image" src="https://github.com/user-attachments/assets/9d3886f9-eb97-4395-aca8-04697b25d128" />
+
 
 # Invoice Manager
 
